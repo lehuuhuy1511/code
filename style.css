@@ -1,0 +1,10 @@
+.bold{
+    color :brown;
+    font-weight: bold;
+}
+p{
+    font-size: 25px;
+}
+ul,li {
+    color :blueviolet ;
+}
