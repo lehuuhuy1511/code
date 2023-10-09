@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "path": "^0.12.7"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "save": "^2.9.0"
+  }
 }
