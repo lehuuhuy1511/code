@@ -1,5 +1,5 @@
 {
-  "name": "wed1",
+  "name": "bai4",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,11 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "path": "^0.12.7"
-  },
   "dependencies": {
-    "express": "^4.18.2",
-    "save": "^2.9.0"
+    "express": "^4.18.2"
   }
 }
